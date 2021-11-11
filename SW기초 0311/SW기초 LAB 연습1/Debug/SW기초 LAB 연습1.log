@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\Users\kimsm\source\repos\SW기초 0311\SW기초 LAB 연습1\소스.cpp(4,7): warning C4101: 'grd' :참조되지 않은 지역 변수입니다.
+  소스1.cpp
+c1xx : fatal error C1083: 소스 파일을 열 수 없습니다. '소스1.cpp': No such file or directory
+  코드를 생성하고 있습니다...

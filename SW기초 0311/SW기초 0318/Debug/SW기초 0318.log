@@ -1,0 +1,4 @@
+﻿  소스1.cpp
+C:\Users\kimsm\source\repos\SW기초 0311\SW기초 0318\소스1.cpp(8,14): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+소스1.obj : error LNK2005: _main이(가) 소스.obj에 이미 정의되어 있습니다.
+C:\Users\kimsm\source\repos\SW기초 0311\Debug\SW기초 0318.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

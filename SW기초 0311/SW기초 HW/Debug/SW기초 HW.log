@@ -1,0 +1,19 @@
+﻿  HW4-1.cpp
+C:\Users\kimsm\source\repos\SW기초 0311\SW기초 HW\HW4-1.cpp(6,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\kimsm\source\repos\SW기초 0311\SW기초 HW\HW4-1.cpp(6,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  HW4-2.cpp
+C:\Users\kimsm\source\repos\SW기초 0311\SW기초 HW\HW4-2.cpp(9,10): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\kimsm\source\repos\SW기초 0311\SW기초 HW\HW4-2.cpp(9,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\kimsm\source\repos\SW기초 0311\SW기초 HW\HW4-2.cpp(9,10): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+C:\Users\kimsm\source\repos\SW기초 0311\SW기초 HW\HW4-2.cpp(9,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\kimsm\source\repos\SW기초 0311\SW기초 HW\HW4-2.cpp(5,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\kimsm\source\repos\SW기초 0311\SW기초 HW\HW4-2.cpp(5,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  HW4-3.cpp
+C:\Users\kimsm\source\repos\SW기초 0311\SW기초 HW\HW4-3.cpp(12,10): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  HW4-4.cpp
+C:\Users\kimsm\source\repos\SW기초 0311\SW기초 HW\HW4-4.cpp(5,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+HW4-2.obj : error LNK2005: _main이(가) HW4-1.obj에 이미 정의되어 있습니다.
+HW4-3.obj : error LNK2005: _main이(가) HW4-1.obj에 이미 정의되어 있습니다.
+HW4-4.obj : error LNK2005: _main이(가) HW4-1.obj에 이미 정의되어 있습니다.
+C:\Users\kimsm\source\repos\SW기초 0311\Debug\SW기초 HW.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

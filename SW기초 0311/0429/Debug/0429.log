@@ -1,0 +1,2 @@
+﻿  0429.cpp
+C:\Users\kimsm\source\repos\SW기초 0311\0429\0429.cpp(68): error C4700: 초기화되지 않은 'max' 지역 변수를 사용했습니다.
